@@ -9,13 +9,13 @@ This repository hosts Helm charts for deploying various services.
 
 ### Add the Helm repository:
 ```
-helm repo add my-repo https://sazhnov-performance.github.io/helmcharts/
+helm repo add openvts https://sazhnov-performance.github.io/helmcharts/
 helm repo update
 ```
 
 ### Install the chart:
 ```
-helm install openvts my-repo/openvts
+helm install openvts openvts/openvts
 ```
 
 Replace `openvts` with your desired release name if needed.
@@ -30,7 +30,7 @@ helm list
 
 Upgrade if needed:
 ```
-helm upgrade openvts my-repo/openvts
+helm upgrade openvts openvts/openvts
 ```
 
 Uninstall the release:
