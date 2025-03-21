@@ -3,12 +3,12 @@ entries:
   openvts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-21T12:20:52.053112518Z"
+    created: "2025-03-21T12:22:44.385733733Z"
     description: A Helm chart for Kubernetes
-    digest: b8e4642074d83ea2f18da221b38361d502940ba2d54f7de28382187454d27d1f
+    digest: 4899f65928dca4b793e6a465c8afb97f973befa4dd03a00222cd6ededc67f039
     name: openvts
     type: application
     urls:
     - https://sazhnov-perfromance.github.io/helmcharts/openvts-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-21T12:20:52.052644339Z"
+generated: "2025-03-21T12:22:44.385257456Z"
